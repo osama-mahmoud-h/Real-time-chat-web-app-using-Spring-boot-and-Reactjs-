@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74fda3a0-c858-4f52-b145-1b20a3b42319" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/chat/src/main/java/com/chat/config/HttpHandshakeInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat/src/main/java/com/chat/config/WebSocketConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat/src/main/java/com/chat/controller/ChatController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat/src/main/java/com/chat/controller/PresenceEventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat/src/main/java/com/chat/model/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat/src/main/java/com/chat/model/MessageDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat/src/main/java/com/chat/model/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat/src/main/resources/static/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Eurka-Server/Eureka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Eurka-Server/Eureka/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Eurka-Server/Eureka/src/main/java/com/example/eureka/EurekaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Eurka-Server/Eureka/src/main/java/com/example/eureka/EurekaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Eurka-Server/Eureka/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Eurka-Server/Eureka/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Search-Engine-MicroService-with-KafKa-master/src/main/java/com/example/demo/MessageController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Search-Engine-MicroService-with-KafKa-master/src/main/java/com/example/demo/MessageRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Search-Engine-MicroService-with-KafKa-master/src/main/java/com/example/demo/service/implementation/KafkaListenersImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Search-Engine-MicroService-with-KafKa-master/src/main/java/com/example/demo/service/implementation/KafkaListenersImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Search-Engine-MicroService-with-KafKa-master/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Search-Engine-MicroService-with-KafKa-master/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chat/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo222/src/main/java/com/example/demo222/EurekaConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo222/src/main/java/com/example/demo222/EurekaConfig.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/chat" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LiSRpHQEKjV8nEIWMinNeLISP5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/osama/OSAMA/4th_Computer/Graduation_project/WebSocket/chat/src/main/java/com/chat&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;aa8af3ebe14831a7cd1b6d1383a03755&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chat/src/main/java/com/chat" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ChatApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chat" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chat.ChatApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74fda3a0-c858-4f52-b145-1b20a3b42319" name="Changes" comment="" />
+      <created>1676352409272</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676352409272</updated>
+      <workItem from="1676352411930" duration="170000" />
+      <workItem from="1676620563886" duration="1409000" />
+      <workItem from="1676696409033" duration="3689000" />
+      <workItem from="1676779590859" duration="4671000" />
+      <workItem from="1676915807128" duration="4805000" />
+      <workItem from="1676954404658" duration="8133000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
